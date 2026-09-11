@@ -61,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aksh1234509850860480489/DAA-Assignment-/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Aksh1234509850860480489/DAA-Assignment-/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Aksh1234509850860480489/DAA-Assignment-/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Aksh1234509850860480489/DAA-Assignment-/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Aksh1234509850860480489/DAA-Assignment-/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
